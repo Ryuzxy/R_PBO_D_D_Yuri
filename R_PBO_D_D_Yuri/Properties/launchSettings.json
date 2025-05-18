@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "R_PBO_D_D_Yuri": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
